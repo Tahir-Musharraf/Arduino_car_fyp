@@ -1,6 +1,6 @@
 # Arduino_car_fyp
 FYP: A car can move left, right, forward and backward by using android application.  In the application we have a screen showing camera outputs (RAW) if anything infront of it comes up like water, fire, wall it will speak louadly 'water, water water' etc. and then the application will automatically stops the vehicle if you don't take any action
-
+# Overview
 In today’s world, everything is slowly interconnected via IoT. Android is one of the best and 
 biggest platforms for the development and connecting of IoT devices. We’ll use an Arduino 
 board with an L298N motor driver to control DC motors. The input will be given by the Android 
